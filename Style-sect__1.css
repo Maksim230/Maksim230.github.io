@@ -1,0 +1,236 @@
+
+.sect-title {
+    font-size: 46px;
+    margin-bottom: 60px;
+    font-family: "Merriweather", serif;
+    text-align: center;
+    font-weight: bold;
+    font-family: "tahoma";
+    color: black;
+}
+
+.sect-title__slogan {
+    font-size: 23px;
+    margin-top: -30px;
+    font-family: "Merriweather",serif;
+    text-align: center;
+    font-family: cursive;
+    color: black;
+    
+}
+
+.sect-service-info {
+    margin-top: 69px;
+    text-align: center;
+
+}
+
+.service-description_1 {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    margin-top: -160px;
+    margin-left: 70px;
+       color: black;
+   
+}
+
+.service-description_2 {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    margin-top: -160px;
+    margin-left: 420px;
+      color: black;
+}
+
+.service-description_3 {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    margin-top: -160px;
+    margin-left: 770px;
+   color: black;
+}
+
+.service-title {
+    font-family: "PF Agora Sans Pro Black";
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0;
+    letter-spacing: 1px;
+     font-weight: bold;
+}
+
+.service-slogan {
+        font-family: "Gotham Pro Light";
+    font-size: 15px;
+    margin-top: 7px;
+    margin-bottom: 0;
+    line-height: 19px;
+}
+
+.round-btn-block.orange-lines {
+    background-image: url(https://static.justfood.pro/Content/Images/btn-lines.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 56px;
+}
+
+.about .round-btn-block {
+    margin-top: 50px;
+}
+
+.round-btn-block {
+    text-align: center;
+}
+
+.round-btn.orange {
+    background: #efb736;
+    color: #fff;
+    border: 2px solid #efb736;
+    border-radius: 35px;
+    font-family: "PF Agora Sans Pro Black";
+    width: 256px;
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+
+
+.round-btn {
+    padding: 7px;
+    border: 2px solid #fff;
+    border-radius: 35px;
+    font-size: 23px;
+    letter-spacing: 1px;
+    font-family: "PF Agora Sans Pro Black";
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    vertical-align: top;
+}
+
+a:hover, a:focus {
+    color: #fff;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+.kcal-icon {
+    font-family: "PF Agora Sans Pro Regular";
+    border-radius: 35px;
+    background: #fff;
+    color: #efb736;
+    font-size: 12px;
+    display: inline-block;
+    width: 32px;
+    height: 20px;
+    vertical-align: middle;
+    padding: 8px 4px;
+    font-weight: bold;
+    margin: 3px 10px;
+    letter-spacing: 0;
+}
+.section_1 .card1 {
+    background-position: 0 0;
+}
+
+.section_1 .card2 {
+    background-position: -302px 0;
+}
+
+.section_1 .card3 {
+    background-position: -604px 0;
+}
+
+.section_1 {
+    background-image: url(imj/Section-Hon1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 750px;
+    margin-top: 30px;
+
+}
+
+
+
+.large-container {
+    width: 1070px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.card {
+    vertical-align: top;
+    display: inline-block;
+    width: 302px;
+    height: 345px;
+    margin: 35px 21px;
+    box-shadow: 4px 4px 30px 0 rgba(0,0,0,.2);
+    border-radius: 20px;
+}
+
+.price {
+    font-family: "PF Agora Sans Pro Light";
+    color: #fdfbf7;
+}
+
+.card-header {
+    background-image: url(https://static.justfood.pro/Content/Images/jf-for-you-2.png);
+    background-repeat: no-repeat;
+    width: 260px;
+    height: 159px;
+    color: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 18px 21px;
+}
+
+
+
+
+.card-body {
+    background: #fff;
+    height: 186px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 18px 21px;
+}
+
+
+.main-block {
+    min-width: 1070px;
+}
+
+.card-header__title {
+font-family: "PF Agora Sans Pro Black";
+    margin-top: 7px;
+    font-size: 23px;
+    line-height: 26px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.step-1 {
+
+}
+
+
+
+
+
+
+
+

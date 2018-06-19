@@ -1,0 +1,143 @@
+*{
+     box-sizing: content-box;
+}
+
+.footer-contact__info {
+    position:absolute;
+    margin-left: 300px;
+    margin-top: 30px;
+    color: #000;
+}
+
+.footer-contact__region {
+    
+}
+
+.footer-contact__tell {
+    margin-top: -35px;
+    margin-left: 90px;
+}
+
+.header {
+    background-image: url("imj/Header-Fon.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: #FFF;
+    display: flex;
+    flex-direction:column;
+    
+}
+
+.header-title {
+    font-size: 59px;
+    font-family: 'tahoma';
+    font-weight: bold;
+    margin-top: 105px;
+    margin-left: 40px;
+    color: #000;
+}
+
+.header-icon__ves {
+    background-image: url("imj/ves.jpeg");
+        background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 603px;
+    height: 100vh;
+}
+
+.header-icon__ananas {
+    float: right;
+    margin-right: -115px;
+    margin-top: -78px;
+    
+    height: 640px;
+    width: 287px;
+}
+
+.header-icon__logatip {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.header-button {
+    position: relative;
+    text-align: center;
+    margin-top: 315px;
+    margin-left: 180px;
+    width:90px; 
+    display:inline-block;
+    
+}
+.button-zakaz {
+    font-weight: 700;
+    text-decoration: none;
+   
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    color: #000;
+    display: inline-block;
+    background-color: white;
+    border-width: 2px;
+
+    border-style: solid;
+    border-radius: 50px;
+    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 23px;
+    padding-right: 23px;
+    margin-bottom: 13px;
+    
+    transition: 0.2s ease-out;
+    
+   float: right;
+    
+    margin-right: -560px;
+    margin-top: 320px;
+
+     
+}
+
+.button-zakaz:hover {
+    color: green;
+}
+
+
+
+
+.button-calc {
+    
+
+    font-weight: 700;
+    text-decoration: none;
+   
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    color: #000;
+    display: inline-block;
+    
+    border-width: 2px;
+background-color: white;
+    border-style: solid;
+    border-radius: 50px;
+    
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 23px;
+    padding-right: 23px;
+    margin-bottom: 13px;
+    
+    transition: 0.2s ease-out;
+    
+    float: left;
+    
+    margin-left: 210px;
+    margin-top: 320px;
+}
+
+.button-calc:hover {
+    color:green;
+}

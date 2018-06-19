@@ -1,0 +1,109 @@
+.sect-4 {
+    margin-top: 30px;
+}
+
+.food-1 {
+    margin-top: 215px;
+    margin-left: 45px;
+    position: absolute;
+    width: 20%;
+    
+}
+
+.food-2 {
+    margin-top: 215px;
+    margin-left: 290px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-3 {
+    margin-top: 215px;
+    margin-left: 542px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-4 {
+    margin-top: 215px;
+    margin-left: 788px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-5 {
+    margin-top: 525px;
+    margin-left: 45px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-6 {
+    margin-top: 525px;
+    margin-left: 290px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-7 {
+    margin-top: 525px;
+    margin-left: 542px;
+    position: absolute;
+    width: 20%;
+}
+
+.food-gramm {
+    background-image: url(imj/icon-gramm.png);
+    background-repeat: no-repeat;
+    width: 61px;
+    height: 24px;
+    text-align: center;
+    font-family: "PF Agora Sans Pro Light";
+    padding-top: 4px;
+}
+
+.food-title {
+    font-family: "PF Agora Sans Pro Black";
+    font-size: 21px;
+    margin-top: 5px;
+    margin-bottom: 4px;
+}
+
+.food-slogan {
+    font-family: "PF Agora Sans Pro Regular";
+    line-height: 17px;
+    letter-spacing: 1px;
+}
+
+.menu-back {
+    position: absolute;
+}
+
+.buttonZakaz {
+    
+    margin-left: 500px;
+  margin-top: 650px;
+
+    font-weight: 700;
+    text-decoration: none;
+   
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    
+    display: inline-block;
+    background-color: #efb736;
+    border-width: 2px;
+    border-color: #FFF;
+    border-style: solid;
+    border-radius: 50px;
+    
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 43px;
+    padding-right: 43px;
+    margin-bottom: 13px;
+    
+    transition: 0.2s ease-out;
+}
+
+
